@@ -6,43 +6,25 @@
 
 # 2장 객체 생성과 파괴
 
-## 아이템 1 [생성자 대신 정적 팩터리 메서드를 고려하라](https://www.notion.so/1-8e7c509941b84c70be8ba961d4f1fd55?pvs=21)
+## 아이템 1 생성자 대신 정적 팩터리 메서드를 고려하라
 
-[아이템 1 생성자 대신 정적 팩터리 메서드를 고려하라](https://www.notion.so/1-8e7c509941b84c70be8ba961d4f1fd55?pvs=21)
+## 아이템 2 생성자에 매개변수가 많다면 빌더를 고려하라
 
-## 아이템 2 [생성자에 매개변수가 많다면 빌더를 고려하라](https://www.notion.so/2-1c545a8865504880b288864bc23c00b6?pvs=21)
+## 아이템 3 private 생성자나 열거 타입으로 싱글턴임을 보증하라
 
-[아이템 2 생성자에 매개변수가 많다면 빌더를 고려하라](https://www.notion.so/2-1c545a8865504880b288864bc23c00b6?pvs=21)
+## 아이템 4 인스턴스화를 막으려거든 private 생성자를 사용하라
 
-## 아이템 3 [private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://www.notion.so/3-private-3fad83f97106407b8c8b6cdbdc93b063?pvs=21)
+## 아이템 5 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라
 
-[아이템 3 private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://www.notion.so/3-private-3fad83f97106407b8c8b6cdbdc93b063?pvs=21)
+## 아이템 6 불필요한 객체 생성을 피하라
 
-## 아이템 4 [인스턴스화를 막으려거든 private 생성자를 사용하라](https://www.notion.so/4-private-5a001e1662764b7cb6cb4610d76c4fa4?pvs=21)
+## 아이템 7 다 쓴 객체 참조를 해제하라
 
-[아이템 4 인스턴스화를 막으려거든 private 생성자를 사용하라](https://www.notion.so/4-private-5a001e1662764b7cb6cb4610d76c4fa4?pvs=21)
-
-## 아이템 5 [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://www.notion.so/5-ae123fb8b49e43f3a77dd86b181103eb?pvs=21)
-
-[아이템 5 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://www.notion.so/5-ae123fb8b49e43f3a77dd86b181103eb?pvs=21)
-
-## 아이템 6 [불필요한 객체 생성을 피하라](https://www.notion.so/6-84ef2b0683554b8683284b0dac4d20aa?pvs=21)
-
-[아이템 6 불필요한 객체 생성을 피하라](https://www.notion.so/6-84ef2b0683554b8683284b0dac4d20aa?pvs=21)
-
-## 아이템 7 [다 쓴 객체 참조를 해제하라](https://www.notion.so/7-09543a41d22d4cd4872db7647e91b3a1?pvs=21)
-
-[아이템 7 다 쓴 객체 참조를 해제하라](https://www.notion.so/7-09543a41d22d4cd4872db7647e91b3a1?pvs=21)
-
-## 아이템 8 [finalizer와 cleaner 사용을 피하라](https://www.notion.so/8-finalizer-cleaner-931904c9f6de4e0c84feed96bdd7f864?pvs=21)
-
-[아이템 8 finalizer와 cleaner 사용을 피하라](https://www.notion.so/8-finalizer-cleaner-931904c9f6de4e0c84feed96bdd7f864?pvs=21)
+## 아이템 8 finalizer와 cleaner 사용을 피하라
 
 # 3장 모든 객체의 공통 메서드
 
 ## 아이템 10 equals는 일반 규약을 지켜 재정의하라
-
-[아이템 10 equals는 일반 규약을 지켜 재정의하라](https://www.notion.so/10-equals-2588414d523e486d829d836517915fe2?pvs=21)
 
 ## 아이템 11 equals를 재정의하려거든 hashCode도 재정의하라
 
