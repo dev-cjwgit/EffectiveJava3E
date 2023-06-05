@@ -1,8 +1,6 @@
 # Effective Java
 
-# 1장 [들어가기](https://www.notion.so/7c097fc7b6c0405ea91a0390b2fa7d1a?pvs=21)
-
-[소개](https://www.notion.so/7c097fc7b6c0405ea91a0390b2fa7d1a?pvs=21)
+# 1장 들어가기
 
 # 2장 객체 생성과 파괴
 
